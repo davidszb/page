@@ -1,0 +1,60 @@
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <link href="style.css" rel="stylesheet">
+    <title>Corona-Virus(Covid19)</title>
+
+
+
+
+  </head>
+
+  <body>
+
+      <img style="border: 3px solid #000000" src="bilder/CoronaText.jpeg">
+
+
+      <div class="sprung">
+          <h1>Coronavirus(Covid19)</h1>
+      </div>
+             <br/>
+
+              <div class="navigation" >
+                    <ul>
+                      <ul><li><a class="hoverlink "href="Masken.html">Verschiedene Masken zum Schutz gegen den Virus</a></li></br>
+                      <li><a class="hoverlink "href="CoronaDuesseldorf.html">Informationen zu Corona aus Düsseldorf</a></li></ul>
+                    </ul>
+                </br>
+              </div>
+
+            <div class="UAllgInfos">
+            <h1> Allgemeine Informationen zum Coronavirus </h1>
+            </div>
+
+            <div style="background-color: lightblue" class="AllgInfos">
+                <h1 style="background-color: lightblue">Entstehung und Verbreitung</h1></br>
+                Von China ausgehend hat sich das neue Coronavirus SARS-CoV-2 weltweit verbreitet.
+                Die Millionenmetropole Wuhan in der Provinz Hubei war dabei Zentrum des Ausbruchs.
+                Die damit einhergehende Erkrankung wird Coronavirus Disease 2019 (COVID-19) genannt.
+                Das Virus SARS-CoV-2 hat sich in der kurzen Zeit nach seiner erstmaligen Entdeckung im Dezember 2019
+                sehr effizient insbesondere durch Tröpfcheninfektion, aber auch durch Aerosolinfektion von Mensch zu Mensch ausgebreitet.
+                </br></br>
+                <h1 style="background-color: lightblue">Symptome</h1></br>
+                Die meisten Infektionen (ca. 80 %) verlaufen asymptomatisch oder mild.
+                Im Verlauf der Erkrankung sind dann die häufigsten Symptome (trockener) Husten, Fieber und Schnupfen.
+                Weitere Leitsymptome sind Beeinträchtigungen des Geruchs- und Geschmackssinns.
+                Hinzu kommen manchmal allgemeine Symptome wie Abgeschlagenheit, Müdigkeit, Halsschmerzen, Kopf- und Gliederschmerzen, Erbrechen und Durchfall.
+                </br></br>
+                <h1 style="background-color: lightblue">Lage in Deutschland</h1></br>
+                Die ersten Erkrankungsfälle traten in Deutschland im Januar 2020 auf. Die 1. Erkrankungswelle (mit bis zu ca. 6000 gemeldeten Fälle / Tag an täglichen Neuerkrankungen) hatte ihren Höhepunkt Mitte März 2020
+                und flachte Mitte Mai 2020 aufgrund von "Lockdown" - und eingeleiteten Hygiene- und Schutzmaßnahmen (AHA-Regel), in ein insgesamt niedriges Niveau ab.
+                Seit Anfang Juli 2020 steigen die gemeldeten Fälle wieder kontinuierlich an.
+                Der Anteil der Verstorbenen unter allen laborbestätigen COVID-19-Fällen liegt aktuell bei 1 %. Damit hat er im Vergleich zum Höchststand Mitte April, mit einem Anteil von 7 %, deutlich abgenommen.
+                Die Gründe hierfür können beispielsweise sein, dass aktuell eher jüngere Menschen, mit altersbedingt einer besseren Krankheitsprognose,
+                erkranken und außerdem erheblich mehr getestet wird und damit auch mildere Fälle erkannt werden.
+            </div>
+            <img class="virus"src="bilder/Virus.png" onmouseover="this.src='bilder/Virus2.png'" onmouseout="this.src='bilder/Virus.png'">
+
+  </body>
+
+</html>
